@@ -1,0 +1,9 @@
+word,valence,arousal,dominance
+curiosity,0.755,0.755,0.463
+uncertainty,0.064,0.494,0.282
+excitement,0.896,0.684,0.731
+happiness,0.96,0.732,0.85
+surprise,0.875,0.875,0.562
+disgust,0.052,0.775,0.317
+fear,0.073,0.84,0.293
+frustration,0.06,0.73,0.28
